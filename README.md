@@ -1,4 +1,7 @@
-# real_estate_analysis
+# Real estate analysis
+
+Based on real estate data from St. Petersburg and the region in 2014-2019. 
+
 What the project does: 
 - identifies the factors affecting the value of real estate in St. Petersburg and the region;
 -  allows you to get a "portrait" of a typical listing for sale;
