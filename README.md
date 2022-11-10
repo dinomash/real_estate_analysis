@@ -9,5 +9,5 @@ What the project does:
 
 Why the project is useful: It helps to make an automated system for detecting anomalies and fraudulent activity.
 
-Launch the project: 
+Project is made with Jupyter notebook (also can be opened with Google Colab)
 
